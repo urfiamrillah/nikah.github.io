@@ -1,15 +1,3 @@
-This is a clone of Minimal Mistakes theme for Jekyll.
-
-For some development notes, see the wiki.
-
-
-
-
-
-
-
-
-
 # Minimal Mistakes
 
 **[Minimal Mistakes](http://mmistakes.github.io/minimal-mistakes)** is a two column responsive Jekyll theme perfect for powering your GitHub hosted blog.

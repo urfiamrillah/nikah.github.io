@@ -1,0 +1,20 @@
+<div class="navigation-wrapper" ng-controller="NavController">
+	<div class="site-name">
+		<a href="{{ site.url }}">{{ site.title }}</a>
+	</div><!-- /.site-name -->
+	<div class="top-navigation">
+		<nav role="navigation" id="site-nav" class="nav">
+				<!-- http://tympanus.net/codrops/2013/05/08/responsive-retina-ready-menu/ -->
+				<button type="button" role="button" class="navtoogle lines-button x" ng-class="{'active': active}" ng-click="toggleActive()" aria-hidden="true">
+					<span class="lines"></span>Pages
+				</button>
+
+		    <ul>
+		        {% for link in site.links %}
+				<li><a href="{% if link.external %}{{ link.url }}{% else %}{{ site.url }}{{ link.url }}{% endif %}" {% if link.external %}target="_blank"{% endif %} ng-click="closeNav()" ng-class="getClass('{{link.url}}')">{{ link.title }}</a></li>
+		        {% endfor %}
+		    </ul>
+
+		</nav>
+	</div><!-- /.top-navigation -->
+</div><!-- /.navigation-wrapper -->
