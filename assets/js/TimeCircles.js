@@ -815,22 +815,22 @@
         time: {
             Days: {
                 show: true,
-                text: "Days",
+                text: "Hari",
                 color: "#FC6"
             },
             Hours: {
                 show: true,
-                text: "Hours",
+                text: "Jam",
                 color: "#9CF"
             },
             Minutes: {
                 show: true,
-                text: "Minutes",
+                text: "Menit",
                 color: "#BFB"
             },
             Seconds: {
                 show: true,
-                text: "Seconds",
+                text: "Detik",
                 color: "#F99"
             }
         }
