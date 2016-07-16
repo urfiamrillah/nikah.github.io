@@ -10,7 +10,7 @@ url: 						"http://lorosukmo.github.io"
 logourl: 					"https://avatars3.githubusercontent.com/u/4507180?v=3&s=460"		
 fa-logo: 					"fa-code"
 paginate: 					5
-tgl_nikah: 					"2015-01-27 10:00:00" # format yyyy-mm-dd hh:mm:ss | contoh: 2020-02-02 00:00:00 
+tgl_nikah: 					"2016-12-1 10:00:00" # format yyyy-mm-dd hh:mm:ss | contoh: 2020-02-02 00:00:00 
 
 
 # Groom
@@ -26,7 +26,7 @@ groom_image: 				"https://avatars3.githubusercontent.com/u/4507180?v=3&s=460"
 bridge_name: 				"Arni Juliawati"
 bridge_fb: 					"http://fb.me/kalinggadev"
 bridge_tw: 					"http://twitter.com/arnijuliawati"
-bridge_ig: 					"http://instagram.com/arnijuliawati"
+bridge_ig: 					"http://instagram.com/arnijw"
 bridge_bio: 				"Tukang ketik amatiran dan pemuja keindahan wanita"
 bridge_image: 				"/images/arni.jpg"
 
