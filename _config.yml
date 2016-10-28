@@ -1,7 +1,7 @@
 
 
 # Site Settings
-title: 						"Sukmo & Julia"
+title: 						"Urfi & Novi"
 email: 						"lorosukmo@live.com"
 author: 					"Sukmo Wijoyo"
 description: 				"Menjalin Janji Suci"
@@ -10,25 +10,25 @@ url: 						"http://lorosukmo.github.io"
 logourl: 					"https://avatars3.githubusercontent.com/u/4507180?v=3&s=460"		
 fa-logo: 					"fa-code"
 paginate: 					5
-tgl_nikah: 					"2016-12-1 10:00:00" # format yyyy-mm-dd hh:mm:ss | contoh: 2020-02-02 00:00:00 
+tgl_nikah: 					"2012-10-28 19:30:00" # format yyyy-mm-dd hh:mm:ss | contoh: 2020-02-02 00:00:00 
 
 
 # Groom
-groom_name: 				"Sukmo Wijoyo"
+groom_name: 				"Urfi Amrillah"
 groom_fb: 					"http://fb.me/kalinggadev"
 groom_tw: 					"http://twitter.com/xahax"
 groom_ig: 					"http://instagram.com/loro.sukmo"
 groom_bio: 					"Tukang ketik amatiran dan pemuja keindahan wanita"
-groom_image: 				"https://avatars3.githubusercontent.com/u/4507180?v=3&s=460"
+groom_image: 				"https://scontent-sin6-1.cdninstagram.com/t51.2885-15/e35/14504872_1614851798812258_5475799662759772160_n.jpg?ig_cache_key=MTM1MTk2ODk5NjEwMjc5NDgyNw%3D%3D.2"
 
 
 # Bridge
-bridge_name: 				"Arni Juliawati"
+bridge_name: 				"Yeni Novia"
 bridge_fb: 					"http://fb.me/kalinggadev"
 bridge_tw: 					"http://twitter.com/arnijuliawati"
 bridge_ig: 					"http://instagram.com/arnijw"
 bridge_bio: 				"Tukang ketik amatiran dan pemuja keindahan wanita"
-bridge_image: 				"/images/arni.jpg"
+bridge_image: 				"https://scontent-sin6-1.cdninstagram.com/t51.2885-15/e35/11950719_819481751505033_373520847_n.jpg?ig_cache_key=MTA2MTY1NDIwMDUxNzA2NTYzOQ%3D%3D.2"
 
 
 # Social Settings
